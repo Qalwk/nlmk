@@ -1,0 +1,52 @@
+
+   .users-table2 {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .users-table-header22{
+    /* border-right: 1px solid #dddddd; */
+    text-align: center;
+    padding: 8px;
+  }
+
+  .header2, .notheader2 {
+    font-weight: 400;
+    text-align: center;
+  }
+  
+  .users-table-header1 {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #dddddd;
+    border-top: none;
+  }
+
+  .users-table-header22 {
+    text-align: center;
+    padding: 8px;
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+  }
+
+  .users-table-cell22 {
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
+  .users-table-header22:nth-child(1),
+  .users-table-header22:nth-child(4) {
+    border-right: 1px solid #dddddd;
+  }
+ 
+  .users-table-cell22:nth-child(1),
+  .users-table-cell22:nth-child(4) {
+    border-right: 1px solid #dddddd;
+  }
+ 
+  .users-table-cell2:nth-child(8),
+  .users-table-cell2:nth-child(10) {
+    border-right: 1px solid #dddddd;
+  }
