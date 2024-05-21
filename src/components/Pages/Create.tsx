@@ -6,6 +6,8 @@ import Table2 from "../Table2"
 import BasicTable from '../BasicTable'
 import Lightning from '../../assets/Lightning.png'
 import Table from '../Table'
+import Table3 from '../Table3'
+import Table4 from '../Table4'
 
 const Create = () => {
   return (
@@ -96,6 +98,8 @@ const Create = () => {
                         </div>
                         <div className='charts-right'>
                             {/* <Table2></Table2> */}
+                            <Table3/>
+                            <Table4/>
                         </div>
                     </div>
                 {/* <div>

@@ -1,0 +1,43 @@
+.table {
+    display: flex;
+    flex-direction: column;
+}
+
+.table-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    gap: 32px;
+}
+
+.table-line-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table-line-one-rows{
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+}
+
+.table-line-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.table-line-two-rows {
+    width: 144px;
+    display: flex;
+    flex-direction: row;
+}
+
+.table-line-two-rows2{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+}

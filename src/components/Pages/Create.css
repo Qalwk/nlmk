@@ -98,6 +98,7 @@
 
 .charts-right {
     display: flex;
+    flex-direction: column;
     width: 805px;
     height: 790px;
     background-color: white;
